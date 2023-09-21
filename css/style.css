@@ -109,8 +109,14 @@ span {
 .end {
     color: red;
     text-align: center;
-    line-height: 90px;
+    line-height: 85px;
     background-color: rgb(74 74 74);
+    padding: 0 20px;
+    
+}
+
+.fa-share-from-square {
+    color: rgb(75 200 0);
 }
 
 
